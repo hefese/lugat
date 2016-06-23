@@ -5,17 +5,17 @@ Geniş charset opsiyonuna ve kısmi RegExp desteğine sahiptir. Kullanılışı
 
 Usage
 ------------------------
-./lugat -m <min> -M <max> -c <charset> -l <lang> -o <fileName>
+./lugat -m &lt;min&gt; -M &lt;max&gt; -c &lt;charset&gt; -l &lt;lang&gt; -o &lt;fileName&gt;
 
 
 Parameters
 ------------------------
--m <min>       : Minimum character length of passwords
--M <max>       : Maximum character length of passwords
--c <charset>   : Character set which will be used
--l <lang>      : Alphabet of A Specific Language 
--o <fileName>  : Output file name
--p <pattern>   : All possible passwords based on given pattern
+-m &lt;min&gt;       : Minimum character length of passwords
+-M &lt;max&gt;       : Maximum character length of passwords
+-c &lt;charset&gt;   : Character set which will be used
+-l &lt;lang&gt;      : Alphabet of A Specific Language 
+-o &lt;fileName&gt;  : Output file name
+-p &lt;pattern&gt;   : All possible passwords based on given pattern
 
 
 Charset Keywords
