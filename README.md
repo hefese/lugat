@@ -55,9 +55,9 @@ Examples
 
 ./lugat -m 1 -M 3 -c alphaAndNumSet -o wordlist.txt
 
-./lugat -p 1*3*8
+./lugat -p 1\*3\*8
 
-./lugat -p 1*3*8 -c alphaNumAndSpecSet -o wordlist.txt
+./lugat -p 1\*3\*8 -c alphaNumAndSpecSet -o wordlist.txt
 
 
 Report bugs
