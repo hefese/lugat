@@ -74,7 +74,7 @@ class DictionaryProcesses
 		puts
 		puts "Report bugs"
 		puts "------------------------"
-		puts "hefese@hotmail.com.tr"
+		puts "fatih.simsek@tubitak.gov.tr"
 		puts
 		puts
 		exit
